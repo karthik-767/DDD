@@ -91,7 +91,6 @@ pure-eval==0.2.2
 pyarrow==16.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
-PyAudio @ file:///C:/Users/Dell/AppData/Local/Programs/Python/Python310/Scripts/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pycparser==2.21
 pycryptodome==3.20.0
 pydantic==2.5.3
